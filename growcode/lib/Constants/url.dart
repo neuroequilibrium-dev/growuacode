@@ -1,4 +1,4 @@
 
 
 
-const String renApiBaseUri = 'https://patient.neuroequilibrium.in/r3/';
+const String baseUri = 'https://jsonplaceholder.typicode.com/';
